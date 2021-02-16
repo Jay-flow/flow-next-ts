@@ -1,1 +1,5 @@
 /* Input Global CSS */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
